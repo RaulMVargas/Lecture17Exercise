@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lecture17Exer</string>
+
+    <string name="livesLeftTextView">You have (PLACEHOLDER) lives left.</string>
+    <string name="guessALetterEditText">Guess a letter</string>
+    <string name="guessButton">Guess</string>
+    <string name="firstLetter">g</string>
+    <string name="secondLetter">o</string>
+    <string name="thirdLetter">l</string>
+    <string name="fourthLetter">f</string>
+
+    <string name="resultFragment"></string>
+    <string name="resultFragmentSecond">The word was "golf"</string>
+</resources>
